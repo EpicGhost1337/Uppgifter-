@@ -6,7 +6,6 @@ public class Uppgift_3 {
 		generic();
 	}
 	
-	@SuppressWarnings("unchecked")
 	public static <T> T[] generic(T... generic) {
 		
 		return generic;
